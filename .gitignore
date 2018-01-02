@@ -3,3 +3,6 @@
 ################################################################################
 
 /ClientTest/obj/Debug
+/Kata/obj
+/packages
+/UnitTestKata/obj/Debug

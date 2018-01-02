@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata", "Kata\Kata.csproj", "{B0562D3C-9AB4-4E7B-BB71-AF59158A5E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestKata", "UnitTestKata\UnitTestKata.csproj", "{275EC303-2688-47B2-BACE-5528010CA838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientTest", "ClientTest\ClientTest.csproj", "{25C7A40D-0D74-42AB-AAFA-CC7035F96875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0562D3C-9AB4-4E7B-BB71-AF59158A5E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0562D3C-9AB4-4E7B-BB71-AF59158A5E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0562D3C-9AB4-4E7B-BB71-AF59158A5E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0562D3C-9AB4-4E7B-BB71-AF59158A5E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275EC303-2688-47B2-BACE-5528010CA838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275EC303-2688-47B2-BACE-5528010CA838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275EC303-2688-47B2-BACE-5528010CA838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275EC303-2688-47B2-BACE-5528010CA838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C7A40D-0D74-42AB-AAFA-CC7035F96875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C7A40D-0D74-42AB-AAFA-CC7035F96875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C7A40D-0D74-42AB-AAFA-CC7035F96875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C7A40D-0D74-42AB-AAFA-CC7035F96875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E2089A-90D9-4A17-AC67-5324497D2463}
+	EndGlobalSection
+EndGlobal
